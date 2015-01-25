@@ -98,5 +98,3 @@ class Table:
 
         print s + nicer + self.spacer
         self.line()
-
-       time.sleep(1)
